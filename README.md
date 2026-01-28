@@ -9,7 +9,7 @@
 
 - 🧑‍💻 frontendとbackendがチョットデキル
 - 👶 I am a beginner designer.
-- 🌱 I’m currently learning php!
+- 🌱 I wanna learning Go!
 <br>
 
 
